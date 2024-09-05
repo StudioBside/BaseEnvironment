@@ -71,6 +71,7 @@
     <Rule Id="SA0001" Action="None" />
     <Rule Id="SA1028" Action="None" />
     <Rule Id="SA1121" Action="None" />
+    <Rule Id="SA1131" Action="None" /> <!--0 <= deckIndex.Index && deckIndex.Index < NKMConst.Unit.DeckCountMax,-->
     <Rule Id="SA1124" Action="None" />
     <Rule Id="SA1127" Action="None" />
     <Rule Id="SA1128" Action="None" />
